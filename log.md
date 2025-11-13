@@ -26,3 +26,5 @@ This log tracks the development progress of the NISCC website.
 *   **17:25:** Committed and pushed PDF content update to GitHub.
 *   **17:30:** Updated background image placeholders to more distinct ones and refactored navigation to use buttons.
 *   **17:35:** Committed and pushed background image and navigation updates to GitHub.
+*   **17:40:** Reverted Navbar component to use `Nav.Link` elements to debug compilation error.
+*   **17:45:** Committed and pushed Navbar revert to GitHub.
