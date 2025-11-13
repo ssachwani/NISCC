@@ -1,16 +1,47 @@
-# Welcome to NATHANIES INSTERNATIONAL SERVICES (NIS) - Your Trusted Custom Clearing Agent
+# Welcome to NATHANIES INSTERNATIONAL SERVICES (NIS)
 
-## Introduction
+## About Us
 
-NATHANIES INSTERNATIONAL SERVICES (NIS) is a leading Custom Clearing Agent based in Karachi, Pakistan. With years of experience and a dedicated team, we provide efficient and reliable customs clearance services for both import and export shipments. Our goal is to simplify complex customs procedures, ensuring smooth and timely delivery of your goods.
+Nathanies International Services is a Customs Clearing and Forwarding Agency based in Karachi, Pakistan. With a strong focus on the pharmaceutical sector, we specialize in providing efficient and reliable Customs Clearance and Forwarding services tailored to meet the unique needs of multinational pharmaceutical companies operating in Karachi. Over 90% of our esteemed clientele belong to the pharmaceutical industry, underscoring our expertise and specialization in this sector.
 
-## Our Profile
+## Mission
 
-We specialize in a wide range of services including tariff classification, duty and tax consultation, documentation, and liaison with customs authorities. Our expertise covers various industries, and we are committed to offering personalized solutions tailored to your specific needs.
+Our mission is to streamline the import and export processes for our clients in the pharmaceutical industry, ensuring timely delivery of their products while maintaining compliance with all regulatory requirements.
 
-*   **Efficiency:** Streamlined processes for quick clearance.
-*   **Reliability:** Consistent and dependable service.
-*   **Expertise:** In-depth knowledge of local and international customs regulations.
-*   **Customer Focus:** Dedicated support and tailored solutions.
+## Services
 
-We pride ourselves on transparency, integrity, and a proactive approach to customs challenges. Partner with NIS for a hassle-free customs experience.
+*   **Customs Clearance:** We handle all customs clearance procedures with precision and efficiency, ensuring that shipments are cleared up without delay.
+*   **Consultation:** We provide expert consultation services to help clients navigate complex customs regulations and optimize their supply chain operations.
+*   **Cold Storage Transportation:** We offer best-in-class cold storage transportation services, ensuring strict quality control and adherence to temperature-sensitive requirements throughout the transportation process. Our solutions are tailored to meet the specific needs of each client, ensuring safe and compliant delivery.
+*   **Drap NOC Support:** We offer services to our clients in obtaining No Objection Certificates (NOCs) from the Drug Regulatory Authority of Pakistan (DRAP) in Karachi. Our team guides clients through the application process, ensuring compliance with all regulatory requirements for the import and export of pharmaceutical products.
+
+## Our Clientele
+
+Our clientele predominantly consists of multinational pharmaceutical companies operating in Karachi. We have established ourselves as trusted partners in the pharmaceutical industry.
+
+### Client List:
+*   B. Braun Pakistan (Private) Limited
+*   Haleon Pakistan Limited
+*   Glaxo Smithkline Pakistan Limited
+*   Lundbeck Pakistan (Private) Limited
+*   Novartis Pharma (Pakistan) Ltd
+*   Novo Nordisk Pharma Pvt Ltd
+*   Obs Pakistan (Private) Limited
+*   Pfizer Pakistan Limited
+*   The Searle Company Limited
+*   Wyeth Pakistan Limited
+*   Al Habib Pharmaceuticals
+*   Ali Gohar & Company (Private) Limited
+*   Aspin Pharma (Pvt.) Limited
+*   Barrett Hodgson Pakistan (Private) Limited
+*   Getz Pharma (Private) Limited
+*   IBL Healthcare (Private) Limited
+*   ICI Pakistan Limited
+*   Mafins Pharma
+*   Nawan Laboratories (Private) Limited
+*   Novins International (Pvt) Limited
+*   Otsuka Pakistan Limited
+*   Pakistan Specialty Chemicals (Pvt) Limited
+*   Pharmatec Pakistan (Private) Limited
+*   Ray Pharma (Private) Limited
+*   Sante (Private) Limited
