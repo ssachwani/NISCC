@@ -16,3 +16,7 @@ This log tracks the development progress of the NISCC website.
 *   **16:30:** Created a responsive Navbar component with a royal blue theme.
 *   **16:35:** Added placeholder background images and themed the main content area.
 *   **16:40:** Committed and pushed feature implementation to GitHub.
+*   **16:45:** Installed `react-markdown` for rendering Markdown content.
+*   **16:50:** Created `public/content` directory and added placeholder Markdown files (`home_introduction.md`, `policies.md`, `vision.md`, `owner_message.md`).
+*   **17:00:** Refactored `Home.tsx` and `Policies.tsx` to fetch and render content from Markdown files.
+*   **17:05:** Committed and pushed Markdown content management implementation to GitHub.
