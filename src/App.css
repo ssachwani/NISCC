@@ -6,12 +6,12 @@
 }
 
 .navbar-nav .nav-link:hover {
-  background-color: var(--primary-color);
+  background-color: var(--royal-blue);
 }
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Lato', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -25,16 +25,31 @@ body {
   background-position: left bottom, right top;
   background-attachment: fixed, fixed;
   background-size: 300px, 200px;
-  background-color: #f4f4f4; /* Fallback color */
+  background-color: var(--light-grey); /* Fallback color set to new variable */
+  color: var(--dark-text); /* Global text color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--dark-blue);
 }
 
 :root {
-  --primary-color: #4169E1; /* Royal Blue */
+  --royal-blue: #4169E1;
+  --dark-blue: #003366;
+  --soft-gold: #D4AF37; /* A professional gold */
+  --light-grey: #F8F9FA;
+  --dark-text: #333333;
 }
 
 .main-content {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.9); /* Slightly more opaque background */
   padding: 2rem;
   border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
+
+.navbar-brand {
+  color: white !important;
+}
+
 
