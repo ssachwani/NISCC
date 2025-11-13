@@ -28,3 +28,5 @@ This log tracks the development progress of the NISCC website.
 *   **17:35:** Reverted Navbar component to use `Nav.Link` elements to debug compilation error.
 *   **17:40:** Styled Navbar links as buttons using custom CSS.
 *   **17:45:** Committed and pushed Navbar styling updates to GitHub.
+*   **17:50:** Implemented enhanced color palette and typography.
+*   **17:55:** Committed and pushed design updates to GitHub.
