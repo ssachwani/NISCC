@@ -20,3 +20,5 @@ This log tracks the development progress of the NISCC website.
 *   **16:50:** Created `public/content` directory and added placeholder Markdown files (`home_introduction.md`, `policies.md`, `vision.md`, `owner_message.md`).
 *   **17:00:** Refactored `Home.tsx` and `Policies.tsx` to fetch and render content from Markdown files.
 *   **17:05:** Committed and pushed Markdown content management implementation to GitHub.
+*   **17:10:** Updated company name to "NATHANIES INSTERNATIONAL SERVICES (NIS)" across the application.
+*   **17:15:** Committed and pushed company name update to GitHub.
