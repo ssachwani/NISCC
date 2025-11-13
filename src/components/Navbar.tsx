@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Nav, Container, Button } from 'react-bootstrap';
+import { Navbar, Nav, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 const AppNavbar: React.FC = () => {
@@ -10,9 +10,9 @@ const AppNavbar: React.FC = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Button as={Link} to="/" variant="link" style={{ color: 'white', textDecoration: 'none' }}>Home</Button>
-            <Button as={Link} to="/policies" variant="link" style={{ color: 'white', textDecoration: 'none' }}>Policies & Vision</Button>
-            <Button as={Link} to="/contact" variant="link" style={{ color: 'white', textDecoration: 'none' }}>Contact Us</Button>
+            <Nav.Link as={Link} to="/" style={{ color: 'white' }}>Home</Nav.Link>
+            <Nav.Link as={Link} to="/policies" style={{ color: 'white' }}>Policies & Vision</Nav.Link>
+            <Nav.Link as={Link} to="/contact" style={{ color: 'white' }}>Contact Us</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
