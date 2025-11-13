@@ -19,14 +19,15 @@ body {
   
   /* Background images */
   background-image: 
-    url('https://via.placeholder.com/400x300/0000FF/FFFFFF?text=Ship'), 
-    url('https://via.placeholder.com/300x200/808080/FFFFFF?text=Airplane');
+    url('/images/global-business-container-cargo-freight-260nw-1914698242.webp'), 
+    url('/images/custom-clearing-agent-500x500.webp');
   background-repeat: no-repeat, no-repeat;
   background-position: left bottom, right top;
   background-attachment: fixed, fixed;
   background-size: 300px, 200px;
   background-color: var(--light-grey); /* Fallback color set to new variable */
   color: var(--dark-text); /* Global text color */
+  opacity: 0.15; /* Watermark effect */
 }
 
 h1, h2, h3, h4, h5, h6 {
