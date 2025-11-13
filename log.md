@@ -35,3 +35,5 @@ This log tracks the development progress of the NISCC website.
 *   **18:10:** Committed and pushed background image updates to GitHub.
 *   **18:15:** Corrected background image watermark implementation using `body::before` pseudo-element and resolved "Module not found" error.
 *   **18:20:** Committed and pushed bug fix to GitHub.
+*   **18:25:** Moved background images from `public/images` to `src/assets/images` and updated CSS paths to resolve "Module not found" error.
+*   **18:30:** Committed and pushed image path fix to GitHub.
