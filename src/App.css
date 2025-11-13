@@ -457,6 +457,130 @@
   font-size: 0.9rem;
 }
 
+.social-media-links {
+  margin-top: 1rem;
+}
+
+.social-icons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.social-icons a {
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1.2rem;
+  transition: var(--transition);
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  background: var(--soft-gold);
+  transform: translateY(-3px);
+  color: white;
+}
+
+/* Google Maps */
+.map-card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  overflow: hidden;
+}
+
+.google-map-container {
+  width: 100%;
+  height: 400px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.google-map-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.map-note {
+  padding: 1rem;
+  background: rgba(65, 105, 225, 0.05);
+  border-radius: 0 0 12px 12px;
+  margin-top: -1px;
+}
+
+/* 404 Not Found Page */
+.not-found-page {
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 0;
+}
+
+.not-found-content {
+  max-width: 600px;
+}
+
+.not-found-icon {
+  font-size: 6rem;
+  color: var(--royal-blue);
+  margin-bottom: 2rem;
+  opacity: 0.8;
+}
+
+.not-found-title {
+  font-size: 8rem;
+  font-weight: 700;
+  color: var(--royal-blue);
+  line-height: 1;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.not-found-subtitle {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--dark-blue);
+  margin-bottom: 1rem;
+}
+
+.not-found-text {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 2.5rem;
+  line-height: 1.6;
+}
+
+.not-found-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.not-found-buttons a {
+  text-decoration: none;
+}
+
+.not-found-buttons .btn {
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.not-found-buttons .btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
 /* Statistics Section */
 .statistics-section {
   background: linear-gradient(135deg, #4169E1 0%, #003366 100%);
@@ -810,6 +934,22 @@
 
   .feature-description {
     font-size: 0.95rem;
+  }
+
+  .not-found-title {
+    font-size: 5rem;
+  }
+
+  .not-found-icon {
+    font-size: 4rem;
+  }
+
+  .not-found-subtitle {
+    font-size: 1.5rem;
+  }
+
+  .google-map-container {
+    height: 300px;
   }
 
   .scroll-to-top {

@@ -34,6 +34,25 @@ const Footer: React.FC = () => {
               <strong>Phone:</strong> 92-21-34398020<br />
               <strong>Email:</strong> <a href="mailto:salman@nathanies.com">salman@nathanies.com</a>
             </p>
+            <div className="social-media-links mt-3">
+              <h6 className="footer-title mb-2">Follow Us</h6>
+              <div className="social-icons">
+                {/* Add your social media links here - uncomment and update URLs */}
+                {/* <a href="https://www.linkedin.com/company/your-company" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                  <i className="fab fa-linkedin"></i>
+                </a>
+                <a href="https://www.facebook.com/your-company" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                  <i className="fab fa-facebook"></i>
+                </a>
+                <a href="https://twitter.com/your-company" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                  <i className="fab fa-twitter"></i>
+                </a>
+                <a href="https://www.instagram.com/your-company" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                  <i className="fab fa-instagram"></i>
+                </a> */}
+                <p className="footer-text small">Social media links coming soon</p>
+              </div>
+            </div>
           </Col>
         </Row>
         <hr className="footer-divider" />

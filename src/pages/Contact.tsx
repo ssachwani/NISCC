@@ -43,6 +43,34 @@ const Contact: React.FC = () => {
         </Alert>
       )}
 
+      <Row className="mb-4">
+        <Col lg={12} className="mb-4">
+          <Card className="map-card">
+            <Card.Body className="p-0">
+              <div className="google-map-container">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3619.5!2d67.065!3d24.89!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDUzJzI0LjAiTiA2N8KwMDMnNTQuMCJF!5e0!3m2!1sen!2s!4v1234567890!5m2!1sen!2s"
+                  width="100%"
+                  height="400"
+                  style={{ border: 0, borderRadius: '12px' }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title="NIS Office Location - Park Avenue Building, P.E.C.H.S., Block-6, Shahrah-e-Faisal, Karachi"
+                ></iframe>
+                <div className="map-note">
+                  <p className="small text-muted mb-0">
+                    <i className="fas fa-info-circle me-2"></i>
+                    To get the exact map location, search for "Park Avenue Building, P.E.C.H.S., Block-6, Shahrah-e-Faisal, Karachi" on Google Maps, 
+                    click Share → Embed a map, and replace the iframe src above.
+                  </p>
+                </div>
+              </div>
+            </Card.Body>
+          </Card>
+        </Col>
+      </Row>
+
       <Row>
         <Col lg={5} className="mb-4 mb-lg-0">
           <Card className="contact-info-card h-100">
