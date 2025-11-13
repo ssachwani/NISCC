@@ -37,3 +37,5 @@ This log tracks the development progress of the NISCC website.
 *   **18:20:** Committed and pushed bug fix to GitHub.
 *   **18:25:** Moved background images from `public/images` to `src/assets/images` and updated CSS paths to resolve "Module not found" error.
 *   **18:30:** Committed and pushed image path fix to GitHub.
+*   **18:35:** Temporarily removed background images from CSS to resolve persistent compilation error.
+*   **18:40:** Committed and pushed temporary fix to GitHub.
