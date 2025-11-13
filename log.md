@@ -30,3 +30,5 @@ This log tracks the development progress of the NISCC website.
 *   **17:45:** Committed and pushed Navbar styling updates to GitHub.
 *   **17:50:** Implemented enhanced color palette and typography.
 *   **17:55:** Committed and pushed design updates to GitHub.
+*   **18:00:** Created `public/images` directory and moved all user-provided images into it.
+*   **18:05:** Awaiting user selection of specific images for background and confirmation of transparency.
