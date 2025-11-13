@@ -4,21 +4,25 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 import AppNavbar from './components/Navbar';
+import Footer from './components/Footer';
+import ScrollToTop from './components/ScrollToTop';
 import Home from './pages/Home';
 import Policies from './pages/Policies';
 import Contact from './pages/Contact';
 
 function App() {
   return (
-    <div>
+    <div className="app-wrapper">
       <AppNavbar />
-      <div className="container mt-4 main-content">
+      <main className="main-content-wrapper">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/policies" element={<Policies />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
-      </div>
+      </main>
+      <Footer />
+      <ScrollToTop />
     </div>
   );
 }

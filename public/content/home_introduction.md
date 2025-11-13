@@ -1,4 +1,4 @@
-# Welcome to NATHANIES INSTERNATIONAL SERVICES (NIS)
+# Welcome to Nathanies International Services
 
 ## About Us
 
