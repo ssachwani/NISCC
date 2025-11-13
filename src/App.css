@@ -28,9 +28,6 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: 
-    url('../assets/images/global-business-container-cargo-freight-260nw-1914698242.webp'), 
-    url('../assets/images/custom-clearing-agent-500x500.webp');
   background-repeat: no-repeat, no-repeat;
   background-position: left bottom, right top;
   background-attachment: fixed, fixed;
