@@ -1,0 +1,6 @@
+Compiled with problems:
+×
+ERROR in ./src/App.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/App.css) 5:36-133
+Module not found: Error: Can't resolve '/images/global-business-container-cargo-freight-260nw-1914698242.webp' in 'D:\DEVELOPMENT\NISCC\src'
+ERROR in ./src/App.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/App.css) 6:36-106
+Module not found: Error: Can't resolve '/images/custom-clearing-agent-500x500.webp' in 'D:\DEVELOPMENT\NISCC\src'

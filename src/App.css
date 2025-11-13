@@ -16,8 +16,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
-  /* Background images */
+  position: relative; /* Needed for pseudo-element positioning */
+  z-index: 1; /* Ensure content is above background */
+  color: var(--dark-text); /* Global text color */
+}
+
+body::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   background-image: 
     url('/images/global-business-container-cargo-freight-260nw-1914698242.webp'), 
     url('/images/custom-clearing-agent-500x500.webp');
@@ -26,8 +36,8 @@ body {
   background-attachment: fixed, fixed;
   background-size: 300px, 200px;
   background-color: var(--light-grey); /* Fallback color set to new variable */
-  color: var(--dark-text); /* Global text color */
   opacity: 0.15; /* Watermark effect */
+  z-index: -1; /* Place behind content */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -52,5 +62,3 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-brand {
   color: white !important;
 }
-
-
