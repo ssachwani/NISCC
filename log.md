@@ -33,3 +33,5 @@ This log tracks the development progress of the NISCC website.
 *   **18:00:** Created `public/images` directory and moved all user-provided images into it.
 *   **18:05:** User selected images for background. Applied selected background images with watermark effect using CSS opacity.
 *   **18:10:** Committed and pushed background image updates to GitHub.
+*   **18:15:** Corrected background image watermark implementation using `body::before` pseudo-element and resolved "Module not found" error.
+*   **18:20:** Committed and pushed bug fix to GitHub.
