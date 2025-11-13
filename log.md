@@ -22,3 +22,5 @@ This log tracks the development progress of the NISCC website.
 *   **17:05:** Committed and pushed Markdown content management implementation to GitHub.
 *   **17:10:** Updated company name to "NATHANIES INSTERNATIONAL SERVICES (NIS)" across the application.
 *   **17:15:** Committed and pushed company name update to GitHub.
+*   **17:20:** Read company profile PDF and updated Home, Policies, and Contact pages with the new content.
+*   **17:25:** Committed and pushed PDF content update to GitHub.
