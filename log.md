@@ -31,4 +31,5 @@ This log tracks the development progress of the NISCC website.
 *   **17:50:** Implemented enhanced color palette and typography.
 *   **17:55:** Committed and pushed design updates to GitHub.
 *   **18:00:** Created `public/images` directory and moved all user-provided images into it.
-*   **18:05:** Awaiting user selection of specific images for background and confirmation of transparency.
+*   **18:05:** User selected images for background. Applied selected background images with watermark effect using CSS opacity.
+*   **18:10:** Committed and pushed background image updates to GitHub.
