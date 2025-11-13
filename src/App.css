@@ -8,8 +8,8 @@ body {
   
   /* Background images */
   background-image: 
-    url('https://via.placeholder.com/400x300.png/00000000?text=Ship'), 
-    url('https://via.placeholder.com/300x200.png/00000000?text=Airplane');
+    url('https://via.placeholder.com/400x300/0000FF/FFFFFF?text=Ship'), 
+    url('https://via.placeholder.com/300x200/808080/FFFFFF?text=Airplane');
   background-repeat: no-repeat, no-repeat;
   background-position: left bottom, right top;
   background-attachment: fixed, fixed;
