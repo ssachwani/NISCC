@@ -16,7 +16,7 @@ const Home: React.FC = () => {
   useEffect(() => {
     const fetchContent = async () => {
       try {
-        const response = await fetch('content/home_introduction.md');
+        const response = await fetch(`${process.env.PUBLIC_URL}/content/home_introduction.md`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
