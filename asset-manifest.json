@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NISCC/static/css/main.155e8392.css",
+    "main.js": "/NISCC/static/js/main.fd50a0fe.js",
+    "static/js/453.d0455f08.chunk.js": "/NISCC/static/js/453.d0455f08.chunk.js",
+    "static/media/custom-clearing-agent-500x500.webp": "/NISCC/static/media/custom-clearing-agent-500x500.55659e8a00d698d36219.webp",
+    "index.html": "/NISCC/index.html",
+    "main.155e8392.css.map": "/NISCC/static/css/main.155e8392.css.map",
+    "main.fd50a0fe.js.map": "/NISCC/static/js/main.fd50a0fe.js.map",
+    "453.d0455f08.chunk.js.map": "/NISCC/static/js/453.d0455f08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.155e8392.css",
+    "static/js/main.fd50a0fe.js"
+  ]
+}
