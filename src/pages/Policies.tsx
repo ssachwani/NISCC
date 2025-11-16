@@ -14,9 +14,9 @@ const Policies: React.FC = () => {
     const fetchAllContent = async () => {
       try {
         const [policiesRes, visionRes, ownerMessageRes] = await Promise.all([
-          fetch('/content/policies.md'),
-          fetch('/content/vision.md'),
-          fetch('/content/owner_message.md'),
+          fetch('content/policies.md'),
+          fetch('content/vision.md'),
+          fetch('content/owner_message.md'),
         ]);
 
         if (!policiesRes.ok || !visionRes.ok || !ownerMessageRes.ok) {
